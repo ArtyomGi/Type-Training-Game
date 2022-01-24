@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>images/background.png</file>
+    <file>images/box.png</file>
+    <file>images/terrain-top.png</file>
+    <file>images/terrain-bottom.png</file>
+
+    <file>images/virtual-guy/run.png</file>
+    <file>images/virtual-guy/idle.png</file>
+
+    <file>images/chameleon/attack.png</file>
+    <file>images/chameleon/idle.png</file>
+    <file>images/chameleon/run.png</file>
+</qresource>
+</RCC>
